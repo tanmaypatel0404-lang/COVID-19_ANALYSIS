@@ -109,8 +109,6 @@ It also strengthened my understanding of the complete data analysis workflow.
 - Include additional COVID-19 indicators.
 - Create an interactive web-based visualization.
 
-## 👨‍💻 Author
-
 **Data Analytics Project**
 
 *Developed as a practical project to strengthen my Data Analytics skills.*
